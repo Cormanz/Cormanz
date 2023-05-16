@@ -1,3 +1,3 @@
 # Introduction
 
-Hey there, I'm Corman! I'm a developer and a person who enjoys Minecraft a lot! Consider checking out [Velt](https://velt.js.org), my plugin that lets you run JS scripts on your Spigot server!
+Hi, I'm Corman. I'm currently working on [SmartGPT](https://github.com/Cormanz/smartgpt), [monster-chess](https://github.com/chesstastic-org/monster-chess), and [EvoJS](https://github.com/evojs/evojs).
